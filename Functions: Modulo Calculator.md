@@ -23,3 +23,5 @@ print(result(a, b))
 <img width="1236" height="276" alt="image" src="https://github.com/user-attachments/assets/81a11b0a-411b-4715-a46e-ec443d2877af" />
 
 ## Result
+The program successfully defines a function that computes the modulo of two numbers and returns the result.
+
